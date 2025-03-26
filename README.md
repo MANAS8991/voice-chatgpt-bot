@@ -18,31 +18,32 @@ Before you begin, ensure you have the following installed:
 ## 🔧 Installation
 
 ### 1. Clone the Repository
-```bash
-git clone https://github.com/yourusername/voice-chatgpt-bot.git
+
+git clone https://github.com/MANAS8991/voice-chatgpt-bot.git
 cd voice-chatgpt-bot
 
-### 2. Create a Virtual Environment (Optional but Recommended)
-```bash
+2. Create a Virtual Environment (Optional but Recommended)
+
 python -m venv venv
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 
-### 3. Install Required Packages
-```bash
+ 3. Install Required Packages
+
 pip install -r requirements.txt
 
-### 4. Set Up OpenAI API Key
+ 4. Set Up OpenAI API Key
+
 Create a .env file in the project root directory
 
 Add your OpenAI API key:
-```bash
+
 OPENAI_API_KEY=your_openai_api_key_here
 
-## 🚀 Running the Application
-```bash
+🚀 Running the Application
+
 streamlit run app.py
 
-### 📦 Dependencies
+📦 Dependencies
 - Streamlit
 - OpenAI
 - SpeechRecognition
@@ -50,4 +51,4 @@ streamlit run app.py
 - pyttsx3
 - python-dotenv
 
-Video Link : []
+## Video Link : [https://drive.google.com/file/d/1dsI17rcaUK5C9tyVkjTt36ff1I_dxKvy/view?usp=sharing]
